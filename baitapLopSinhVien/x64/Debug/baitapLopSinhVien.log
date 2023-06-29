@@ -1,0 +1,6 @@
+﻿  SinhVien.cpp
+D:\HOC_CODE_C_C++\OOP\baitapLopSinhVien\baitapLopSinhVien\SinhVien.h(22,4): warning C4091: 'typedef ': ignored on left of 'StudentSpace::nutshell::StudentInformation' when no variable is declared
+  baitapLopSinhVien.cpp
+D:\HOC_CODE_C_C++\OOP\baitapLopSinhVien\baitapLopSinhVien\SinhVien.h(22,4): warning C4091: 'typedef ': ignored on left of 'StudentSpace::nutshell::StudentInformation' when no variable is declared
+  Generating Code...
+  baitapLopSinhVien.vcxproj -> D:\HOC_CODE_C_C++\OOP\baitapLopSinhVien\x64\Debug\baitapLopSinhVien.exe
